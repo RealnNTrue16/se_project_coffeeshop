@@ -76,5 +76,5 @@
   height: 426px;
   border-radius: 50%;
   z-index: 0;
-  animation: pulse 1s linear infinite forwards;
+  animation: pulse 1.3s ease-in-out infinite forwards;
 }
