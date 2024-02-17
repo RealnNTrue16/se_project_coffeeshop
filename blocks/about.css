@@ -30,6 +30,19 @@
   line-height: 30px;
 }
 
+.about__paragraph {
+  margin: 0px;
+}
+
+.about__paragraph:nth-child(2) {
+  margin-top: 20px;
+}
+
+.about__paragraph:nth-child(3) {
+  margin-top: 20px;
+  margin-bottom: 73px;
+}
+
 .about__circle {
   background-color: #2f80ed;
   position: absolute;
