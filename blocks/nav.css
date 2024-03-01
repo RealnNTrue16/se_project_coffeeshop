@@ -7,6 +7,7 @@
   position: relative;
   width: 105px; /* Set Width */
   height: 39px; /* Set Height */
+  left: -50px;
 }
 
 .nav__links {
