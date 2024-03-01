@@ -1,5 +1,5 @@
 .header {
-  background-image: url("/images/background_header.svg");
+  background-image: url("../images/background_header.svg");
   display: flex;
   flex-direction: column;
   padding: 30px 80px 40px;
@@ -9,6 +9,10 @@
   position: relative;
   z-index: 1;
   box-sizing: border-box;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .header__span-accent {
@@ -37,6 +41,9 @@
   max-width: 683px;
   margin-top: 28px;
   margin-bottom: auto;
+  font-family: "Noto Serif", Arial, sans-serif;
+  font-size: 20px;
+  line-height: 20px;
 }
 
 .header__image {

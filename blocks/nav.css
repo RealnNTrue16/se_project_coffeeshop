@@ -7,8 +7,6 @@
   position: relative;
   width: 105px; /* Set Width */
   height: 39px; /* Set Height */
-  top: 30px;
-  left: 30px;
 }
 
 .nav__links {
@@ -17,7 +15,6 @@
   padding-left: 0;
   margin: 0;
   column-gap: 20px;
-  margin-top: 30px;
 }
 
 .nav__link {
